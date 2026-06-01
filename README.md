@@ -1,0 +1,1 @@
+# mgb-redirect-automation
